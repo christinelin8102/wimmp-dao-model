@@ -23,4 +23,4 @@ The MMP DAO models
    python setup.py bdist_wheel
    ```
 2. Go to your project which install this project
-3. `pip install [target project path]/dist/daomodel-0.1.0-py3-none-any.whl`
+3. `pip install [target project path]/dist/daomodel-0.1.0-py3-none-any.whl` 此處的[target project path]指的是從git下下來的wimmp-backend project
